@@ -11,7 +11,7 @@
 
 Atualmente estou iniciando minha trajetória na área de Tecnologia da Informação, buscando desenvolver conhecimentos em:
 
-- Suporte técnico
+-  Suporte técnico
 - Infraestrutura de TI
 - Redes de computadores
 - Desenvolvimento Web
