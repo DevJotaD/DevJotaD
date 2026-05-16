@@ -12,9 +12,9 @@
 Atualmente estou iniciando minha trajetória na área de Tecnologia da Informação, buscando desenvolver conhecimentos em:
 
 - Infraestrutura de TI
-- Redes de computadores
+- Redes de Computadores
 - Desenvolvimento Web
-- Automação de processos 
+- Automação de Processos 
 
 Tenho grande interesse por tecnologia, aprendizado contínuo e resolução de problemas, sempre procurando evoluir minhas habilidades e adquirir novas experiências.
 
